@@ -1,19 +1,31 @@
+# 🎓 KP11 Messenger — настольный мессенджер для колледжа
 
-<img src="https://i.ibb.co/60XQw3P/icon.png" width="100" height="100">
+приложение для общения студентов, преподавателей и сотрудников колледжа. Работает на базе <b>Electron</b> и <b>React</b>, с акцентом на простоту и минималистичный UI.
 
-# KP11 Messenger
+![Angular](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=angular&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Platform](https://img.shields.io/badge/platform-win-lightgrey?style=for-the-badge)
 
-This is a messenger created for communication within college between students and teachers.
-
-# About
-
-The messenger has standard features like other applications of this type, such as creating chats with multiple users, editing profile, sending files and more.
-Also each user's profile has group number and major.
-
-# Screenshots
-<img src="https://i.ibb.co/cLp16y4/708376143.png">
+## 📷 Демонстрация
 <img src="https://i.ibb.co/bBCrPLC/708376775.png">
-<img src="https://i.ibb.co/vq1kWT6/708376807.png">
 
-# License
-This project is distributed under the MIT license.
+## 🚀 Возможности
+
+- 💬 Личные и групповые чаты
+- 🎨 Современный UI на React
+- 🌓 Поддержка светлой/тёмной темы
+- ⚡ Горячие клавиши и уведомления
+- 📤 Передача файлов (изображения, PDF, архивы)
+- 👤 Редактирование профиля
+
+## 🛠 Установка
+
+```bash
+git clone https://github.com/acidless/rubtinizer.git
+cd rubtinizer
+npm install
+```
+
+## 📝 Лицензия
+
+Этот проект распространяется под лицензией MIT.
